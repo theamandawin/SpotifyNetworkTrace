@@ -1,0 +1,81 @@
+
+
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+  
+  
+  
+.NYC {
+  position: absolute;
+  top: 270px;
+  left: 700px;
+  color: gray;
+  
+  }
+
+.LA {
+    position: absolute;
+    top: 100px;
+    left: 160px;
+    color: gray;
+    }
+    
+.KC {
+      position: absolute;
+      top: 270px;
+      left: 100px;
+      color: gray;
+      
+}
+
+.DC {
+    position: absolute;
+    top: 100px;
+    left: 650px;
+    color: gray;
+    
+}
+  
+
+  header {
+  background-color: white;
+  height: 120px;
+  width: 1024px;
+  margin-left: auto;
+  margin-right: auto;
+  
+  }
+  
+  
+  main{
+  background-color: black;
+  height: 400px;
+  width: 1024px;
+  margin-left: auto;
+  margin-right: auto;
+  
+  }
+  
+  footer{
+  background-color: white;
+  height: 60px;
+  width: 1024px;
+  padding-top: 60px;
+  margin-left: auto;
+  margin-right: auto;
+  }
+  
+  
+  
+  footer a{
+  font-size: 12px;
+  text-align: left;
+  padding-left: 147px;
+  padding-right: 140px;
+  }
+  
+  
+  

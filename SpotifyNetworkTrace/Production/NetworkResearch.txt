@@ -1,0 +1,36 @@
+Physical Trace Network
+
+
+//Research
+
+Name: Amanda
+Domain: Spotify ( https://open.spotify.com/? )
+Use: Listening to killer sounds – but from a technical aspect, Spotify would be a rare corporation I’ve always been interested to work at just to see how their algorithms work and how user friendly they’ve made the interface and really marketed themselves well for an app that heavily nests and manipulates their user’s data.
+
+
+IP Addresses: 
+
+IP: 192.168.1.1
+Address: Private IP Address
+
+IP: 100.2.48.1 
+Address: New York City, NY 10116
+Coordinates: (40.713192, -74.006065)
+History: Parsons School of Design was founded in New York City in 1896 as the Chase School with the intent to build a less traditional & more progressive institution for artists. 
+
+IP:  100.41.23.154
+Address: Washington, DC 20001
+Coordinates: (38.89539, -77.039476)
+History: On January 6th of 2021 following Trump's defeat in the 2020 presidential election, a mob of his supporters staged an attack on the US Capitol Building in DC.
+
+IP: 72.14.208.130   
+Address: Los Angeles, California 94043
+Coordinates: (37.405992, -122.078515)
+History: Chrome Hearts was founded in 1988 in Los Angeles by Richard Stark, John Bowman, & silversmith Leonard Kamhout. They wanted to re-invent biker-gang and rock 'n' roll culture through their personal taste and started their iconic sterling silver jewelry and leather jackets.
+
+IP: 35.186.224.25
+Address: Missouri, Kansas City 64101
+Coordinates: (39.09973, -94.57857)
+History: Missouri has two common blue birds: Indigo bunting and Eastern Bluebird. 
+
+
